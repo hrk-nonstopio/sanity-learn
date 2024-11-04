@@ -1,0 +1,6 @@
+[submodule "course/day-one-with-sanity-studio"]
+	path = course/day-one-with-sanity-studio
+	url = git@github.com:hrk-nonstopio/day-one-with-sanity-studio.git
+[submodule "course/handling-schema-changes-confidently"]
+	path = course/handling-schema-changes-confidently
+	url = git@github.com:hrk-nonstopio/sanity-handling-schema-changes-confidently.git
